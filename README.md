@@ -10,4 +10,6 @@ This app provides data security using PBKDF2 hashing algorithm.
 There are also features like email submission options, animations, music and sound effects.
 
 Very friendly user interface granted by CSS styled panels.
+
+
 Made in java, javafx (GUI) with an average 10.000 lines of code in total. 

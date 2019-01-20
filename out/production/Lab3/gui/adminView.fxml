@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.AdminViewController">
+    <children>
+        <Label layoutX="12.0" layoutY="190.0" text="Username:">
+         <font>
+            <Font name="Ink Free" size="15.0" />
+         </font></Label>
+        <Label layoutX="11.0" layoutY="235.0" text="Password:">
+         <font>
+            <Font name="Ink Free" size="16.0" />
+         </font></Label>
+        <TextField fx:id="userText" layoutX="113.0" layoutY="185.0" />
+        <TextField fx:id="passText" layoutX="113.0" layoutY="232.0" />
+        <Button fx:id="b1" layoutX="115.0" layoutY="288.0" mnemonicParsing="false" onAction="#addHandler" text="Add new moderator!" />
+        <Button fx:id="b3" layoutX="248.0" layoutY="344.0" mnemonicParsing="false" onAction="#cancelHandler" prefHeight="31.0" prefWidth="79.0" text="Exit" />
+      <TextArea layoutX="82.0" layoutY="14.0" prefHeight="108.0" prefWidth="448.0" text="Welcome Admin!&#10;You can add a professor account (as moderator) in the left side.&#10;You can delete any account in the right side (or in case a&#10;moderator wants to change his/her password)." />
+      <Label layoutX="421.0" layoutY="151.0" text="Username:">
+         <font>
+            <Font name="Ink Free" size="17.0" />
+         </font></Label>
+      <TextField fx:id="deleteUserText" layoutX="372.0" layoutY="187.0" />
+      <Button fx:id="b2" layoutX="406.0" layoutY="242.0" mnemonicParsing="false" onAction="#deleteHandler" text="Delete account" />
+      <Label layoutX="32.0" layoutY="130.0" prefHeight="21.0" prefWidth="284.0" text="Don't forget! A moderator's name " textFill="#943838" />
+      <Label layoutX="32.0" layoutY="151.0" text="should contain &quot;Prof&quot; in the username" textFill="#945353" />
+    </children>
+</AnchorPane>

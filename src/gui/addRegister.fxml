@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #0AFDF0;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.AddRegisterController">
+   <children>
+      <Label layoutX="75.0" layoutY="109.0" text="Username:" />
+      <Label layoutX="14.0" layoutY="166.0" text="Choose or change password:" />
+      <TextField fx:id="userText" layoutX="239.0" layoutY="104.0" />
+      <TextField fx:id="passText" layoutX="239.0" layoutY="161.0" />
+      <Button layoutX="494.0" layoutY="135.0" mnemonicParsing="false" onAction="#addHandler" text="Register!" underline="true">
+         <font>
+            <Font name="Book Antiqua" size="15.0" />
+         </font></Button>
+      <Label layoutX="165.0" layoutY="32.0" text="You can also change your password here!">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+         <effect>
+            <Reflection />
+         </effect></Label>
+      <Button layoutX="263.0" layoutY="355.0" mnemonicParsing="false" onAction="#cancelHandler" prefHeight="31.0" prefWidth="79.0" text="Exit" />
+      <TextField fx:id="codeText" layoutX="263.0" layoutY="279.0" prefHeight="31.0" prefWidth="114.0" />
+      <Button layoutX="403.0" layoutY="279.0" mnemonicParsing="false" onAction="#checkCode" opacity="0.92" text="Confirm" textFill="#e40606" underline="true" />
+      <Separator layoutX="-2.0" layoutY="218.0" prefHeight="14.0" prefWidth="600.0" />
+      <Label layoutX="36.0" layoutY="286.0" text="Copy paste your code here:">
+         <font>
+            <Font name="Bodoni MT Black" size="16.0" />
+         </font></Label>
+   </children>
+</AnchorPane>

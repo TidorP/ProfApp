@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Teme>
+<Tema id="1">
+<Descriere>N/A</Descriere>
+<Due>5</Due>
+<Given>4</Given>
+</Tema>
+<Tema id="2">
+<Descriere>N/A</Descriere>
+<Due>2</Due>
+<Given>1</Given>
+</Tema>
+<Tema id="3">
+<Descriere>N/A</Descriere>
+<Due>3</Due>
+<Given>2</Given>
+</Tema>
+<Tema id="4">
+<Descriere>N/A</Descriere>
+<Due>1</Due>
+<Given>1</Given>
+</Tema>
+<Tema id="5">
+<Descriere>N/A</Descriere>
+<Due>9</Due>
+<Given>7</Given>
+</Tema>
+<Tema id="6">
+<Descriere>N/A</Descriere>
+<Due>6</Due>
+<Given>2</Given>
+</Tema>
+<Tema id="7">
+<Descriere>N/A</Descriere>
+<Due>7</Due>
+<Given>5</Given>
+</Tema>
+<Tema id="8">
+<Descriere>N/A</Descriere>
+<Due>4</Due>
+<Given>3</Given>
+</Tema>
+<Tema id="9">
+<Descriere>N/A</Descriere>
+<Due>8</Due>
+<Given>7</Given>
+</Tema>
+<Tema id="10">
+<Descriere>N/A</Descriere>
+<Due>10</Due>
+<Given>9</Given>
+</Tema>
+<Tema id="11">
+<Descriere>N/A</Descriere>
+<Due>11</Due>
+<Given>10</Given>
+</Tema>
+<Tema id="12">
+<Descriere>N/A</Descriere>
+<Due>12</Due>
+<Given>11</Given>
+</Tema>
+</Teme>

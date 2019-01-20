@@ -1,0 +1,36 @@
+        Fri, 28 Dec 2018 17:01:02 +0200 (EET)
+From: web@gmail.com
+To: tegrs
+Message-ID: <801583684.321.1546009257542.JavaMail.ptido@DESKTOP-9V7NIOQ>
+Subject: You have just been assigned a grade!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_320_553703444.1546009257541"
+
+------=_Part_320_553703444.1546009257541
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Your grade for the homework 12 is 10.
+Nota studentului a fost diminuata la 10Nota studentului a fost predata la timp deci nu a fost diminuata!
+------=_Part_320_553703444.1546009257541
+Content-Type: text/plain; charset=us-ascii; 
+	name="C:\\Users\\ptido\\IdeaProjects\\Lab3\\student's
+ folders\\m.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; 
+	filename="C:\\Users\\ptido\\IdeaProjects\\Lab3\\student's
+ folders\\m.txt"
+
+Tema:12
+Nota:10
+Predata in saptamana:10
+Deadline:12
+Feedback:good
+Tema:5
+Nota:8
+Predata in saptamana:10
+Deadline:9
+Feedback:good
+
+------=_Part_320_553703444.1546009257541--

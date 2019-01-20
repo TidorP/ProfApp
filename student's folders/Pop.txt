@@ -1,0 +1,10 @@
+Tema:2
+Nota:1
+Predata in saptamana:7
+Deadline:2
+Feedback:Weak
+Tema:9
+Nota:9
+Predata in saptamana:3
+Deadline:8
+Feedback:Weak

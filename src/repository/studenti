@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Studenti>
+<Student id="1">
+<Nume>gfd</Nume>
+<Grupa>222</Grupa>
+<Email>dfg</Email>
+<Cadru_didactic>gf</Cadru_didactic>
+</Student>
+<Student id="2">
+<Nume>Sandu</Nume>
+<Grupa>223</Grupa>
+<Email>ptidor1@gmail.com</Email>
+<Cadru_didactic>Pop</Cadru_didactic>
+</Student>
+<Student id="3">
+<Nume>Pop</Nume>
+<Grupa>222</Grupa>
+<Email>ptidor1@gmail.com</Email>
+<Cadru_didactic>gf</Cadru_didactic>
+</Student>
+<Student id="4">
+<Nume>pricope</Nume>
+<Grupa>223</Grupa>
+<Email>ptidor_lion@yahoo.com</Email>
+<Cadru_didactic>Pop</Cadru_didactic>
+</Student>
+<Student id="5">
+<Nume>r</Nume>
+<Grupa>222</Grupa>
+<Email>wfeda</Email>
+<Cadru_didactic>hegrf</Cadru_didactic>
+</Student>
+<Student id="6">
+<Nume>l</Nume>
+<Grupa>222</Grupa>
+<Email>sdaf</Email>
+<Cadru_didactic>hegrffas</Cadru_didactic>
+</Student>
+<Student id="7">
+<Nume>j</Nume>
+<Grupa>222</Grupa>
+<Email>dsfg</Email>
+<Cadru_didactic>sgfd</Cadru_didactic>
+</Student>
+<Student id="8">
+<Nume>g</Nume>
+<Grupa>222</Grupa>
+<Email>sgdf</Email>
+<Cadru_didactic>dsfg</Cadru_didactic>
+</Student>
+<Student id="9">
+<Nume>f</Nume>
+<Grupa>222</Grupa>
+<Email>sgh</Email>
+<Cadru_didactic>shgsdhf</Cadru_didactic>
+</Student>
+<Student id="10">
+<Nume>e</Nume>
+<Grupa>221</Grupa>
+<Email>rhdb</Email>
+<Cadru_didactic>drhb</Cadru_didactic>
+</Student>
+<Student id="11">
+<Nume>a</Nume>
+<Grupa>221</Grupa>
+<Email>gsdf</Email>
+<Cadru_didactic>rgasfd</Cadru_didactic>
+</Student>
+<Student id="12">
+<Nume>b</Nume>
+<Grupa>221</Grupa>
+<Email>argefref</Email>
+<Cadru_didactic>rfsgrgs</Cadru_didactic>
+</Student>
+<Student id="13">
+<Nume>c</Nume>
+<Grupa>224</Grupa>
+<Email>sdbgfbgd</Email>
+<Cadru_didactic>sdfbgsf</Cadru_didactic>
+</Student>
+<Student id="14">
+<Nume>d</Nume>
+<Grupa>224</Grupa>
+<Email>sdfhfdsg</Email>
+<Cadru_didactic>sdfg</Cadru_didactic>
+</Student>
+<Student id="15">
+<Nume>h</Nume>
+<Grupa>224</Grupa>
+<Email>fdsgbs</Email>
+<Cadru_didactic>vsdfv</Cadru_didactic>
+</Student>
+<Student id="16">
+<Nume>p</Nume>
+<Grupa>224</Grupa>
+<Email>gfdsdfv</Email>
+<Cadru_didactic>sgfdss</Cadru_didactic>
+</Student>
+<Student id="17">
+<Nume>i</Nume>
+<Grupa>225</Grupa>
+<Email>fdg</Email>
+<Cadru_didactic>sdgf</Cadru_didactic>
+</Student>
+<Student id="18">
+<Nume>k</Nume>
+<Grupa>225</Grupa>
+<Email>esrtg</Email>
+<Cadru_didactic>gstre</Cadru_didactic>
+</Student>
+<Student id="19">
+<Nume>m</Nume>
+<Grupa>225</Grupa>
+<Email>tegrs</Email>
+<Cadru_didactic>tegrs</Cadru_didactic>
+</Student>
+<Student id="20">
+<Nume>n</Nume>
+<Grupa>226</Grupa>
+<Email>egrfs</Email>
+<Cadru_didactic>gres</Cadru_didactic>
+</Student>
+<Student id="21">
+<Nume>o</Nume>
+<Grupa>226</Grupa>
+<Email>sgtr</Email>
+<Cadru_didactic>srtg</Cadru_didactic>
+</Student>
+<Student id="22">
+<Nume>s</Nume>
+<Grupa>226</Grupa>
+<Email>fhdh</Email>
+<Cadru_didactic>wwww</Cadru_didactic>
+</Student>
+</Studenti>

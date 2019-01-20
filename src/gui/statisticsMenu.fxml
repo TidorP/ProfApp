@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="520.0" prefWidth="667.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.StatisticsController">
+   <children>
+      <TextArea layoutX="64.0" prefHeight="73.0" prefWidth="538.0" text="In this window you can generate some reports regarding the work until this &#10;moment.  Pie Charts or histograms are also available. You will be able to &#10;visualize the results in PDF format.">
+         <font>
+            <Font name="Georgia" size="15.0" />
+         </font></TextArea>
+      <Label layoutX="64.0" layoutY="101.0" text="Overall scholar situation for each student (average of all grades until now):" textFill="#bd6fea">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font></Label>
+      <Button fx:id="b1" layoutX="57.0" layoutY="160.0" mnemonicParsing="false" onAction="#createMediiPDF" prefHeight="31.0" prefWidth="154.0" text="Generate PDF" />
+      <Button fx:id="b2" layoutX="251.0" layoutY="160.0" mnemonicParsing="false" onAction="#createMediiPieChart" text="Generate Pie Chart" />
+      <Button fx:id="b3" layoutX="464.0" layoutY="160.0" mnemonicParsing="false" onAction="#createMediiHisto" text="Generate Histogram" />
+      <Separator layoutX="-1.0" layoutY="217.0" prefHeight="4.0" prefWidth="659.0" />
+      <Label layoutX="31.0" layoutY="247.0" text="Curious which one was the hardest homework given? See here:" textFill="#040d36">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font></Label>
+      <Button fx:id="b4" layoutX="485.0" layoutY="242.0" mnemonicParsing="false" onAction="#hardestHM" text="Hardest homework" />
+      <Separator layoutX="5.0" layoutY="287.0" prefHeight="13.0" prefWidth="659.0" />
+      <Label layoutX="31.0" layoutY="325.0" text="Students who passed (an overall score of &gt;=5):" textFill="#040d36">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font></Label>
+      <Button fx:id="b5" layoutX="372.0" layoutY="320.0" mnemonicParsing="false" onAction="#createPassedPDF" prefHeight="31.0" prefWidth="126.0" text="PDF" />
+      <Button fx:id="b6" layoutX="531.0" layoutY="320.0" mnemonicParsing="false" onAction="#createPassedPieChart" prefHeight="31.0" prefWidth="126.0" text="Pie Chart" />
+      <Separator layoutY="373.0" prefHeight="4.0" prefWidth="667.0" />
+      <Label layoutX="34.0" layoutY="400.0" text="Rigorous students who respected all the deadlines:" textFill="#040d36">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font></Label>
+      <Button fx:id="b7" layoutX="427.0" layoutY="395.0" mnemonicParsing="false" onAction="#goodStudents" prefHeight="31.0" prefWidth="183.0" text="Generate PDF" />
+      <Label layoutX="38.0" layoutY="467.0" text="See the report accross all the university groups:" textFill="#040d36">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font></Label>
+      <Separator layoutX="4.0" layoutY="446.0" prefHeight="4.0" prefWidth="659.0" />
+      <Button fx:id="b8" layoutX="427.0" layoutY="462.0" mnemonicParsing="false" onAction="#createGroupsHisto" prefHeight="31.0" prefWidth="183.0" text="Generate Bar Chart" />
+   </children>
+</AnchorPane>

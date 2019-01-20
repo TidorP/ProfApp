@@ -1,0 +1,5 @@
+Tema:2
+Nota:3
+Predata in saptamana:3
+Deadline:2
+Feedback:Fbine

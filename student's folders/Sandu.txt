@@ -1,0 +1,40 @@
+Tema:8
+Nota:1
+Predata in saptamana:7
+Deadline:4
+Feedback:Fair
+Tema:5
+Nota:9
+Predata in saptamana:5
+Deadline:9
+Feedback:Fair
+Tema:7
+Nota:3
+Predata in saptamana:8
+Deadline:7
+Feedback:nul
+Tema:10
+Nota:5
+Predata in saptamana:8
+Deadline:10
+Feedback:nul
+Tema:11
+Nota:5
+Predata in saptamana:8
+Deadline:12
+Feedback:nul
+Tema:7
+Nota:1
+Predata in saptamana:8
+Deadline:7
+Feedback:nul
+Tema:6
+Nota:10
+Predata in saptamana:5
+Deadline:6
+Feedback:ff
+Tema:11
+Nota:5
+Predata in saptamana:8
+Deadline:11
+Feedback:nul

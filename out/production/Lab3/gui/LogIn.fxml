@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.media.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchor" prefHeight="600.0" prefWidth="833.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.LogInController">
+   <children>
+      <ImageView fx:id="imageView" fitHeight="545.0" fitWidth="854.0" layoutX="-1.0" layoutY="271.0" pickOnBounds="true" preserveRatio="true" />
+      <Label layoutX="39.0" layoutY="56.0" prefHeight="33.0" prefWidth="94.0" text="Username:" textFill="#6b0561">
+         <font>
+            <Font name="Ink Free" size="20.0" />
+         </font>
+         <effect>
+            <Lighting>
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect></Label>
+      <TextField fx:id="usernameText" layoutX="203.0" layoutY="61.0" />
+      <Label layoutX="41.0" layoutY="112.0" text="Password:" textFill="#5b014c">
+         <font>
+            <Font name="Ink Free" size="20.0" />
+         </font>
+         <effect>
+            <Lighting>
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect></Label>
+      <Label alignment="CENTER" layoutX="144.0" layoutY="14.0" text="Welcome! Please Log in first, as professors and students use a different interface!" textFill="#650707">
+         <font>
+            <Font name="Bodoni MT" size="18.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect></Label>
+      <Label layoutX="374.0" layoutY="167.0" text="First time here or forgot your passwd? Register now:" />
+      <Button fx:id="buttonRegister" layoutX="738.0" layoutY="162.0" mnemonicParsing="false" onAction="#registerHandler" text="Register" />
+      <Button fx:id="buttonGo" layoutX="275.0" layoutY="162.0" mnemonicParsing="false" onAction="#loginHandler" text="Go!" />
+      <TextArea layoutX="435.0" layoutY="56.0" prefHeight="98.0" prefWidth="392.0" text="Don't forget! You have to be a student at this &#10;University registered in the students' database &#10;to get permitted acces, please enter your official name.&#10;If you are a professor, your name should contain &quot;Prof&quot;!" />
+      <Text fx:id="hidingText" layoutX="14.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The username or passwd not correct!" />
+      <Label layoutX="375.0" layoutY="220.0" text="Log in as administrator?" />
+      <ImageView fx:id="keyImg" fitHeight="21.0" fitWidth="26.0" layoutX="534.0" layoutY="220.0" pickOnBounds="true" preserveRatio="true" />
+      <Label layoutX="560.0" layoutY="220.0" text="Code:" />
+      <Button fx:id="buttonAdmin" layoutX="763.0" layoutY="215.0" mnemonicParsing="false" onAction="#registerAdmin" text="Admin" />
+      <RadioButton fx:id="radioB" layoutX="14.0" layoutY="236.0" mnemonicParsing="false" onAction="#stopMusicHandler" prefHeight="21.0" prefWidth="94.0" text="Music off" textFill="#a15656">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></RadioButton>
+      <PasswordField fx:id="passwordText" layoutX="204.0" layoutY="113.0" />
+      <PasswordField fx:id="adminCode" layoutX="602.0" layoutY="215.0" prefHeight="31.0" prefWidth="153.0" />
+   </children>
+</AnchorPane>

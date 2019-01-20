@@ -1,0 +1,21 @@
+#adminPane{
+    -fx-background-image: url("Imgs/adminImg.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 667 410;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+.but{
+    -fx-background-color:#B93C59;
+    -fx-background-radius: 5,5,4;
+    -fx-background-insets: 0 0 -1 0,0,1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+    -fx-text-alignment: center;
+}
+.but:hover{
+
+    -fx-background-color:#64EE64;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+    -fx-text-alignment: center;
+}

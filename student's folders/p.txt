@@ -1,0 +1,5 @@
+Tema:1
+Nota:10
+Predata in saptamana:3
+Deadline:5
+Feedback:good

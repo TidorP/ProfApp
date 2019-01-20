@@ -1,0 +1,65 @@
+Tema:1
+Nota:10
+Predata in saptamana:2
+Deadline:5
+Feedback:Weak
+Tema:2
+Nota:9
+Predata in saptamana:2
+Deadline:2
+Feedback:Weak
+Tema:3
+Nota:10
+Predata in saptamana:3
+Deadline:3
+Feedback:Good
+Tema:4
+Nota:10
+Predata in saptamana:1
+Deadline:1
+Feedback:Good
+Tema:5
+Nota:10
+Predata in saptamana:3
+Deadline:9
+Feedback:Good
+Tema:6
+Nota:10
+Predata in saptamana:3
+Deadline:6
+Feedback:Good
+Tema:7
+Nota:10
+Predata in saptamana:3
+Deadline:7
+Feedback:Good
+Tema:8
+Nota:10
+Predata in saptamana:4
+Deadline:4
+Feedback:Good
+Tema:9
+Nota:10
+Predata in saptamana:8
+Deadline:8
+Feedback:Good
+Tema:10
+Nota:10
+Predata in saptamana:10
+Deadline:10
+Feedback:Good
+Tema:11
+Nota:10
+Predata in saptamana:10
+Deadline:11
+Feedback:Good
+Tema:12
+Nota:10
+Predata in saptamana:10
+Deadline:12
+Feedback:Good
+Tema:11
+Nota:10
+Predata in saptamana:10
+Deadline:12
+Feedback:Good

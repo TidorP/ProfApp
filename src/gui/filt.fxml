@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.FiltController">
+   <children>
+      <TableView fx:id="tabel" layoutX="16.0" layoutY="31.0" prefHeight="342.0" prefWidth="978.0">
+        <columns>
+          <TableColumn fx:id="grupaC" prefWidth="75.0" text="Grupa" />
+          <TableColumn fx:id="tema1C" prefWidth="75.0" text="Tema1" />
+            <TableColumn fx:id="tema2C" prefWidth="75.0" text="Tema2" />
+            <TableColumn fx:id="tema3C" prefWidth="75.0" text="Tema3" />
+            <TableColumn fx:id="tema4C" prefWidth="75.0" text="Tema4" />
+            <TableColumn fx:id="tema5C" prefWidth="75.0" text="Tema5" />
+            <TableColumn fx:id="tema6C" prefWidth="75.0" text="Tema6" />
+            <TableColumn fx:id="tema7C" prefWidth="75.0" text="Tema7" />
+            <TableColumn fx:id="tema8C" prefWidth="75.0" text="Tema8" />
+            <TableColumn fx:id="tema9C" prefWidth="75.0" text="Tema9" />
+            <TableColumn fx:id="tema10C" prefWidth="75.0" text="Tema10" />
+            <TableColumn fx:id="tema11C" prefWidth="75.0" text="Tema11" />
+            <TableColumn fx:id="tema12C" prefWidth="75.0" text="Tema12" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

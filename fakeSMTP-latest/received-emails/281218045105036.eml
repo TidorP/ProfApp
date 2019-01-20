@@ -1,0 +1,41 @@
+        Fri, 28 Dec 2018 16:51:05 +0200 (EET)
+From: web@gmail.com
+To: fdsgbs
+Message-ID: <1327712067.243.1546008660412.JavaMail.ptido@DESKTOP-9V7NIOQ>
+Subject: You have just been assigned a grade!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_242_1105502479.1546008660411"
+
+------=_Part_242_1105502479.1546008660411
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Your grade for the homework 2 is 10.
+Nota studentului a fost diminuata la 8 din cauza intarzierilor!
+------=_Part_242_1105502479.1546008660411
+Content-Type: text/plain; charset=us-ascii; 
+	name="C:\\Users\\ptido\\IdeaProjects\\Lab3\\student's
+ folders\\h.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; 
+	filename="C:\\Users\\ptido\\IdeaProjects\\Lab3\\student's
+ folders\\h.txt"
+
+Tema:1
+Nota:10
+Predata in saptamana:3
+Deadline:5
+Feedback:good
+Tema:2
+Nota:8
+Predata in saptamana:3
+Deadline:2
+Feedback:good
+Tema:3
+Nota:10
+Predata in saptamana:3
+Deadline:3
+Feedback:good
+
+------=_Part_242_1105502479.1546008660411--
